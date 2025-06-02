@@ -31,5 +31,5 @@ Use with caution and responsibility.
 ## 📚 Documentation
 
 [➡️ Click here to view full feature list](./Features.md)
-[➡️ Click here to view GUI](./GUI.md)
+-[➡️ Click here to view GUI](./GUI.md)
 
