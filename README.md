@@ -27,3 +27,8 @@ This software is provided for educational purposes only. By using **Lightmoon**,
 ## ❌ You have been warned.
 
 Use with caution and responsibility.
+
+## 📚 Documentation
+
+[➡️ Click here to view full feature list](./Features.md)
+
