@@ -1,7 +1,7 @@
 
 # 🌙 Lightmoon - Features
 
-Minimal, sleek, and efficient external cheat for CS2.  
+Minimal, sleek, and efficient external modification for CS2.  
 Packed with essential functionality for legit and smooth gameplay.
 
 ---
