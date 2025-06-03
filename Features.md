@@ -11,6 +11,7 @@ Packed with essential functionality for legit and smooth gameplay.
 - **Aim on Key**: Only activates when a specific key is pressed
 - **Aim FOV**: Adjustable field of view for aim targeting
 - **Smooth**: Customizable smoothness for legit aim behavior
+- **SingleShot**: Customizable auto mode
 
 ---
 
@@ -19,6 +20,7 @@ Packed with essential functionality for legit and smooth gameplay.
 - **ESP Health**: Show health bars above enemies
 - **ESP Skeleton**: Visualize enemy skeletons
 - **ESP Name**: Display player names
+- **ESP Lines**: Looks good
 
 ---
 
